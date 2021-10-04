@@ -16,7 +16,7 @@ It is one of the Country specific modules designed for Canada.
 
 It works at the **Annual Time step**.
 
-There is a special repository for the GCBM Module ![Here](https://github.com/moja-global/moja.canada/tree/develop).
+There is a special repository for the GCBM Module [Here](https://github.com/moja-global/moja.canada/tree/develop).
 
 ***PREREQUISITE MODULES FOR GCBM:*** 
 
@@ -34,6 +34,6 @@ There are numerous prerequisites for the GCBM and we have only included a short 
     Different events are fired on the basis of different land type found during simulation.
     like If peatland land type is encountered then fires peatland disturbance event else it fires a regular CBM disturbance event.
 
-    For More information regarding CaMP check out this ![Document](https://www.sciencedirect.com/science/article/pii/S0304380020302350).
+    For More information regarding CaMP check out this [Document](https://www.sciencedirect.com/science/article/pii/S0304380020302350).
 
-2. **![Turnover Module](https://github.com/moja-global/Google.Season.of.Documentation/blob/master/modules-development/turnover-module.md)**
+2. **[Turnover Module](https://github.com/moja-global/Google.Season.of.Documentation/blob/master/modules-development/turnover-module.md)**
