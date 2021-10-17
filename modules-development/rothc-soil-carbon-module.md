@@ -23,3 +23,8 @@ It is better than the other modules because its input data is readily available 
 
 -   Total Organic Carbon.
 -   Microbial Biomass Carbon.
+
+
+Here is the pictorial representation of RothC module.
+
+![rothc](assets/RothC.png)
