@@ -1,10 +1,10 @@
 # Modules Development
 
-Modules are all written to work with the [`develop`](https://github.com/moja-global/FLINT/tree/develop) branch of the **FLINT** and any actively maintained branches will work with the most recent version (and are broken with old enough builds of the FLINT). The FLINT Application Programming Interface (API) has evolved a bit over time, so some modules might have fallen out of date. None of these modules requires a custom fork of FLINT.
+Modules are all written to work with the [`develop`](https://github.com/moja-global/FLINT/tree/develop) branch of the **FLINT** and any actively maintained branches will work with the most recent version (and are broken with old enough builds of the FLINT). The FLINT Application Programming Interface (API) has evolved over time, so some modules might be out of date. None of these modules require a custom fork of FLINT.
 
 ## Background
 
-What might be helpful though is to think about what a module manifest might look like. **Manifests** are meta-data used by the package managers to describe the compatibility (FLINT versions that are used), dependency (necessary inputs) and the configuration requirements (whether the module uses daily, monthly or annual time steps, for example).
+It is useful to think about what a module manifest might look like. **Manifests** are meta-data used by the package managers to describe the compatibility (FLINT versions that are used), dependencies (necessary inputs) and the configuration requirements (for example whether the module uses daily, monthly or annual time steps).
 
 This project describes the core contribution of each module.
 
