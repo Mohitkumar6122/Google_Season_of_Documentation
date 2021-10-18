@@ -1,3 +1,5 @@
+These are the prerequistes you need to know before learning about **Modules**. This document presumes that you are already familiar with **FLINT**, If not check this [link](https://github.com/moja-global/FLINT) to understand **FLINT** and then come back here!.
+
 1. **Pools**
   
     A pool is a reservoir within which something can be stored and released. 
@@ -7,6 +9,9 @@
     Here are the different pools present in the FLINT. 
 
     ![Pools](assets/pools.png)
+
+    [IPCC](https://www.ipcc.ch/about/) : The **Intergovernmental Panel on Climate Change** (IPCC) is the United Nations body for assessing the science related to climate change.  
+    FLINT has been designed to be in line with the Intergovernmental Panel on Climate Change (IPCC) Good Practice Guidance and the evolving transparency framework under the Paris Agreement. The approach is solidly rooted in science and applies a carbon balance method to ensure the generated results are reliable. 
 
 2. **Operations**
   
@@ -20,8 +25,7 @@
 
 3. **Events**
     
-    Events are operations that occur intermittently (rather than for every time step in a simulation) resulting in the movement of carbon from one pool to another. 
-    
+    Events are operations that occur intermittently (rather than for every time step in a simulation) resulting in the movement of carbon from one pool to another.  
     Events include natural and anthropogenic events including fire, harvesting, ploughing, and fertiliser application. These are coded for the FLINT as a module.
 
     Here is the relationship between Pools and Operations/ Events.
@@ -37,10 +41,9 @@
 
 5. [**Tiers of Module**](https://community.foundationfootprint.com/FoundationFootprintHelpCentre/Miscellaneous/IPCCTiers.aspx#:~:text=Tiers%20of%20Emission%20Factors%20and%20Activity%20Data&text=A%20tier%20represents%20a%20level%20of%20methodological%20complexity.&text=Tier%201%20is%20the%20basic,of%20complexity%20and%20data%20requirements.)
 
-    All the modules are divided into three different Tiers, according to the quantity of information required, and the degree of analytical complexity.
+    All the modules are divided into three different Tiers, according to the quantity of information required, and the degree of analytical complexity.  
 
-    Three tier's are described for categorizing both emissions factors and activity data.
-    
+    Three tier's are described for categorizing both emissions factors and activity data.  
     Tier 1 is the basic method, frequently utilizing IPCC-recommended country-level defaults, while Tier's 2 and 3 are each more demanding in terms of complexity and data requirements.
 
 6. [**Temporal Distribution**](https://github.com/moja-global/FLINT/wiki/1.7-Temporal-Distribution)
@@ -61,7 +64,7 @@
     In some circumstances, modules that are simulated for a particular Simulation Unit are dependent on other Simulation Units. That is, there is an interdependency across the Simulation Units.   
     In these situations, it is necessary for there to be a process that synchronises across the related Simulation Units and is known as synchronized events. 
     
-    Synchronized Server in FLINT manages the Synchronized events.
+    Synchronized Server in the FLINT manages the Synchronized events.
 
 9. **Mass Balance**
 
