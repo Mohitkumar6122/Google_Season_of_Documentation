@@ -16,3 +16,9 @@ It is similar to the [DayCent](https://en.wikipedia.org/wiki/DayCent). This modu
 -   Global Radiation
 
 ## OUTPUTS :
+
+- It calculates how much carbon moves between pools
+
+Here is the pictorial representation of WOFOST Module. 
+
+![WOFOST](assets/WOFOST.png)
