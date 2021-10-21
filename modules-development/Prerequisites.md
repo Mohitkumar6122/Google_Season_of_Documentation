@@ -10,7 +10,7 @@ These are the prerequistes you need to know before learning about **Modules**. T
 
     ![Pools](assets/pools.png)
 
-    [IPCC](https://www.ipcc.ch/about/) : The **Intergovernmental Panel on Climate Change** (IPCC) is the United Nations body for assessing the science related to climate change.  
+    The **Intergovernmental Panel on Climate Change** ([IPCC](https://www.ipcc.ch/about/)) is the United Nations body for assessing the science related to climate change.  
     FLINT has been designed to follow the IPCC Good Practice Guidance and the evolving transparency framework under the Paris Agreement. The approach is solidly rooted in science and applies a carbon balance method to ensure the generated results are reliable. 
 
 2. **Operations**
@@ -20,7 +20,7 @@ These are the prerequistes you need to know before learning about **Modules**. T
 
     Operations allow FLINT to track changes in carbon stock through time, including fluxes into and out of pools.
 
-    For example, a harvest moves plant material to products and debris pools, whereas a wildfire moves plant material to debris and atmosphere pools.
+    For example, a harvest operation moves plant material to products and debris pools, whereas a wildfire operation moves plant material to debris and atmosphere pools.
 
 
 3. **Events**
