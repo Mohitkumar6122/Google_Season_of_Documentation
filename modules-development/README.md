@@ -19,5 +19,5 @@ This project describes the core contribution of each module.
 7.  [RothC soil carbon module](rothc-soil-carbon-module.md)
 8.  [Chapman Richards module](chapman-richards-module.md)
 9.  [GCBM module](gcbm-module.md)
-
+10. [Commonly asked questions / FAQ](FAQ.md)
 
