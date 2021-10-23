@@ -16,7 +16,7 @@ Here is the [link](https://github.com/moja-global/FLINT.Modules.docs/blob/develo
 **Q.** Can I implement a module form scratch?
 
 **A.** Yes, we can definitely implement a module from scratch, infact there a special custom made module [**Agricultural soil module**](https://github.com/moja-global/FLINT.Module.Agricultural_Soil_Model). This project involves specifically implementing the agricultural soils model that is used to estimate non-CO2 GHG emissions from agricultural practices.   
-You can visit this [link](https://docs.google.com/document/d/10mVkpOSYQDVCyVcAAdS1NwBh4d1OpOdPw-EGdGGwyhU/edit#) to know how to implement a single, simple module from scratch.
+You can visit this [link](https://github.com/moja-global/FLINT.Modules.docs/blob/develop/modules.md#developing-modules) to know how to implement a single, simple module from scratch.
 
 
 ##
