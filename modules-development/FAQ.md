@@ -18,7 +18,7 @@ The API has evolved a bit over time, so some modules might have fallen out of da
 Here is the [link](https://github.com/moja-global/FLINT.Modules.docs/blob/develop/modules.md) for an advance level of module documentation.
 ##
 
-**Q.** Can I implement a module form scratch?
+**Q.** Can I implement a module from scratch?
 
 **A.** Here's an example of a custom made module - [**Agricultural soil module**](https://github.com/moja-global/FLINT.Module.Agricultural_Soil_Model).   
 This project involves specifically implementing the agricultural soils model that is used to estimate non-CO2 GHG emissions from agricultural practices.   
