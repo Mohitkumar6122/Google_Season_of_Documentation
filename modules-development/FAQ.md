@@ -44,4 +44,4 @@ Here is a **Control Flow diagram** of modules.
 **A:**
 
 ##
-If you have more questions related to modules you can reach out to us via [Email]((mailto:info@moja.global)) or on [slack](https://join.slack.com/t/mojaglobal/shared_invite/zt-o6ta1ug0-rVLjAo460~d7JbZ~HpFFtw ).
+If you have more questions related to modules you can reach out to us via [Email](mailto:info@moja.global) or on [slack](https://join.slack.com/t/mojaglobal/shared_invite/zt-o6ta1ug0-rVLjAo460~d7JbZ~HpFFtw ).
